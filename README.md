@@ -1,7 +1,7 @@
 Hello SSC Lets learn some Git!
 
 SOME handy commands:
-
+```
 git config --global user.name "Sam Smith"
 git config --global user.email sam@example.com
 
@@ -25,6 +25,7 @@ git push origin <branchname>
 git pull
 
 git merge <branchname>
+```
 
 Some useful resources:
 [This is easy to read for beginners](https://www.atlassian.com/git/tutorials/)

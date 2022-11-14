@@ -1,4 +1,5 @@
 Hello SSC Lets learn some Git!
+
 SOME handy commands:
 
 git config --global user.name "Sam Smith"
@@ -24,4 +25,9 @@ git push origin <branchname>
 git pull
 
 git merge <branchname>
+
+Some useful resources:
+[This is easy to read for beginners](https://www.atlassian.com/git/tutorials/)
+[Awesome "lab" by github - if you want to learn more!](https://skills.github.com/)
+[Official Git doc references - a bit hard to read at first, then its super useful for reference](https://git-scm.com/docs)
 
